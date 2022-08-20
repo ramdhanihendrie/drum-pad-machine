@@ -1,0 +1,12 @@
+.drum-pad {
+  background-color: salmon;
+  margin: 10px;
+  height: 100px;
+  line-height: 100px;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.drum-pad:active {
+  background-color: lightsalmon;
+}
